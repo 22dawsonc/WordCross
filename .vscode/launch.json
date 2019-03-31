@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WordGameRunner",
+            "request": "launch",
+            "mainClass": "WordGameRunner"
+        }
+    ]
+}
